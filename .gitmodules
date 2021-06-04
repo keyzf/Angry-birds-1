@@ -1,0 +1,3 @@
+[submodule "subdarectry-folder"]
+	path = subdarectry-folder
+	url = https://github.com/nivinsvysakh/subdarectry-folder.git
