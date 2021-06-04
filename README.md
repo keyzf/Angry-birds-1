@@ -20,10 +20,5 @@ Do not have an automatic reloding| Add automatic reloding when space is pressed
 
 ---
 
-##### This game is devaloped by 
-
-- @nivinsvysakh
-- And
-- @whitehatjr
 
 
