@@ -17,6 +17,7 @@ AngryBirds stage 1 | Angry birds stage 2
 ------------ | -------------
 Lots of bugs  | Added Smoke when the bird travels
 Do not have an automatic reloding| Add automatic reloding when space is pressed
+Do not have Smoke | Vanishing the pigs
 
 ---
 
