@@ -7,7 +7,7 @@
 
 ## what is angry birds ?
 
-so angry birds is a game .
+**so angry birds is a game .**
 
 ---
 
@@ -19,6 +19,5 @@ Lots of bugs  | Added Smoke when the bird travels
 Do not have an automatic reloding| Add automatic reloding when space is pressed
 
 ---
-
 
 
