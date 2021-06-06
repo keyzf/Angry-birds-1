@@ -1,4 +1,4 @@
-#  Angry birds 
+#  Angry birds or V.1
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## difference between Old and new V.2
+## Difference between Old and new V.2
 
 V.1|V.2
 ------------ | -------------
